@@ -4,7 +4,7 @@
 ## About the Project
 
 
-![](./images/our_cat.jpeg)
+![](./images/journey_of_ophiuchus.png)
 
 
 
