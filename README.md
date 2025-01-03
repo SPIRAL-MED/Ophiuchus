@@ -1,4 +1,4 @@
-# Ophiuchus
+# Journey of Ophiuchus
 
 
 ## About the Project
