@@ -4,7 +4,7 @@
 ## About the Project
 
 
-![](./images/our_cat.png)
+![](./images/our_cat.jpeg)
 
 
 
