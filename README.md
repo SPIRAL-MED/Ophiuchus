@@ -12,7 +12,7 @@
 
 
 ## 🎉 News
-- **\[2025/01\]** 🚨 We have officially released [**the first**]().
+- **\[2025/01\]** 🚨 We have officially released [**our technical report**]() and the training dataset on 🤗 [Hugging Face](https://huggingface.co/datasets/SPIRAL-MED/o1-journey-Ophiuchus).
 
 
 
@@ -27,9 +27,6 @@
 If you are interested in our project and would like to join us, feel free to send an email to [xiaofan.zhang@sjtu.edu.cn](mailto:xiaofan.zhang@sjtu.edu.cn).
 
 ## Citation
-
-
-### Part1:
 
 ```
 
