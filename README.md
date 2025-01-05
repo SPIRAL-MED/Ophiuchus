@@ -18,7 +18,17 @@
 
 ## Progress
 
-* We are gradually releasing resources, and more will be available soon. Stay tuned as we continue to share new updates over time!
+###[**Report (Part1)**]() | [**Citation**](#citation)
+
+
+This paper investigates the application of inference time scaling in the medical domain, focusing on complex reasoning, spanning tasks from diagnostic decision-making to treatment planning. 
+
+Key findings include:
+
+- Long thought processes require sufficient domain knowledge and instruction-following ability to function effectively during testing.
+- Majority voting offers a simple method for augmenting inference time computation, though its efficacy is limited.
+- Harder tasks necessitate longer reasoning processes, supporting the idea that task complexity drives the need for more extensive thought chains.
+- The multiple-choice options can be removed to encourage the generation of free-form responses, enabling an exploration of the potential of medical journey learning. The model's reasonable responses underscore the promising capability of inference time scaling and journey learning in advancing LLM performance in real-world clinical reasoning tasks.
 
 
 
