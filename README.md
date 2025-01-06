@@ -18,7 +18,7 @@
 
 ## Progress
 
-###[**Report (Part1)**]() | [**Citation**](#citation)
+### [**Report (Part1)**]() | [**Citation**](#citation)
 
 
 This paper investigates the application of inference time scaling in the medical domain, focusing on complex reasoning, spanning tasks from diagnostic decision-making to treatment planning. 
