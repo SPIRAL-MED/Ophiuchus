@@ -8,7 +8,7 @@
 
 
 
-[Zhongzhen Huang](https://scholar.google.com/citations?user=LrZdFHgAAAAJ), [Gui Geng](), [Shengyi Hua](https://github.com/hsymm), [Zhen Huang](https://huangzhen02.github.io), [Haoyang Zou](https://scholar.google.com/citations?user=btPmUcoAAAAJ&hl=en), [Pengfei Liu](https://plms.ai/), [Xiaofan Zhang](https://scholar.google.com/citations?user=30e95fEAAAAJ)
+[Zhongzhen Huang](https://scholar.google.com/citations?user=LrZdFHgAAAAJ), [Gui Geng](), [Shengyi Hua](https://github.com/hsymm), [Zhen Huang](https://huangzhen02.github.io), [Haoyang Zou](https://scholar.google.com/citations?user=btPmUcoAAAAJ&hl=en), [Shaoting Zhang](https://scholar.google.com/citations?user=oiBMWK4AAAAJ) [Pengfei Liu](https://plms.ai/), [Xiaofan Zhang](https://scholar.google.com/citations?user=30e95fEAAAAJ)
 
 
 ## 🎉 News
