@@ -12,13 +12,13 @@
 
 
 ## 🎉 News
-- **\[2025/01\]** 🚨 We have officially released [**our technical report**]() and the training dataset on 🤗 [Hugging Face](https://huggingface.co/datasets/SPIRAL-MED/o1-journey-Ophiuchus).
+- **\[2025/01\]** 🚨 We have officially released [**our technical report**](https://arxiv.org/pdf/2501.06458) and the training dataset on 🤗 [Hugging Face](https://huggingface.co/datasets/SPIRAL-MED/o1-journey-Ophiuchus).
 
 
 
 ## Progress
 
-### [**Report (Part1)**]() | [**Citation**](#citation)
+### [**Report**](https://arxiv.org/pdf/2501.06458) | [**Citation**](#citation)
 
 
 This paper investigates the application of inference time scaling in the medical domain, focusing on complex reasoning, spanning tasks from diagnostic decision-making to treatment planning. 
